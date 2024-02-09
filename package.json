@@ -1,0 +1,20 @@
+{
+  "name": "task-2",
+  "version": "1.0.0",
+  "description": "ighub internship task one",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "leo",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.1",
+    "express": "^4.18.2",
+    "express-async-handler": "^1.2.0",
+    "mongoose": "^8.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
